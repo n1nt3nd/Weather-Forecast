@@ -1,6 +1,0 @@
-/home/apodgorny/labwork-10-n1nt3nd/cmake-build-debug/CMakeFiles/labwork10.dir
-/home/apodgorny/labwork-10-n1nt3nd/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/apodgorny/labwork-10-n1nt3nd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/apodgorny/labwork-10-n1nt3nd/cmake-build-debug/lib/CMakeFiles/weather_parser.dir
-/home/apodgorny/labwork-10-n1nt3nd/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
-/home/apodgorny/labwork-10-n1nt3nd/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
