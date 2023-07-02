@@ -1,0 +1,1 @@
+add_library(weather_parser WeatherParser/WeatherParser.cpp WeatherParser/WeatherParser.h ConfigParser/ConfigParser.cpp ConfigParser/ConfigParser.h APIParser/APIParser.h APIParser/APIParser.cpp ConsolePrinter/ConsolePrinter.h ConsolePrinter/ConsolePrinter.cpp)
